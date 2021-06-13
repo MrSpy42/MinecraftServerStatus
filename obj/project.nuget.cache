@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXJ/mgKdmcPjxdeRUejW8lnb9UEin5GZN5tIDbRyhzkxJSEGrSUQqM9YIRp3T9AZPRtWhQOTH38w87wSuuDFxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikif\\source\\repos\\MinecraftServerStatus2\\MinecraftServerStatus2\\MinecraftServerStatus2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikif\\.nuget\\packages\\mcquery\\2020.5.21.133155\\mcquery.2020.5.21.133155.nupkg.sha512",
+    "C:\\Users\\nikif\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
